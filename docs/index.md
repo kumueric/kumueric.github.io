@@ -21,9 +21,9 @@ Google provides [*__Python Online__* via Jupyter Notebooks @ `colab.research.goo
 
 [Kaggle provides many examples, challenges, and data sets.](https://www.kaggle.com/)
 
-_Keep learning!_
+Keep learning,
 
-Kumu Eric
+_Kumu Eric_
 
 PS: I have also taught courses in financial & managerial accounting, federal taxation of individual income, auditing,
 accounting information systems (AIS), management information systems (MIS), global economics, business statistics, and
