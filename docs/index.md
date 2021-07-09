@@ -3,7 +3,7 @@
 Aloha!
 
 I have taught:
-* ICS 111 Intro to Computer Science I (in [Python](https://www.python.org/about/gettingstarted/) using [Visual Studio Code](https://code.visualstudio.com/Download))
+* ICS 111 Intro to Computer Science I (in [Python](https://www.python.org/about/gettingstarted/) with the [Anaconda Individual Edition recommended over base Python alone](https://www.anaconda.com/products/individual) using [Visual Studio Code](https://code.visualstudio.com/Download))
 * ICS 129 Introduction to Databases (Using [MySQL Community Software with MySQL Workbench](https://dev.mysql.com/downloads/))
 * ICS 211 Intro to Computer Science II ([continuing the study of data structures and introducing classic algorithms](https://www.edureka.co/blog/data-structures-and-algorithms-in-python/))
 * BUSA 340 Business Intelligence (introducing students to [data governance](https://www.dataversity.net/what-is-data-governance/) & [visualization](https://powerbi.microsoft.com/en-us/power-bi-visuals/))
