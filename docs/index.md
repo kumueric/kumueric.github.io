@@ -19,6 +19,8 @@ Also, Amazon Web Services (AWS) provides [**AWS Educate** _for students and facu
 Google provides [*__Python Online__* via Jupyter Notebooks @ `colab.research.google.com`](https://colab.research.google.com/)
 (powered by [Google Cloud Platform, GCP](https://cloud.google.com/)).
 
+[Kaggle provides many examples, challenges, and data sets.](https://www.kaggle.com/)
+
 _Keep learning!_
 
 Kumu Eric
