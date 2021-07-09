@@ -12,7 +12,9 @@ I have taught:
 
 I strongly encourage all students and faculty to [**_join GitHub Education_**](https://education.github.com/).
 
-I highly recommend that educators use [**_GitHub Classroom_**](https://classroom.github.com/) which allows faculty to [provide feedback to students using the autograder](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/).
+I highly recommend that educators use [**_GitHub Classroom_**](https://classroom.github.com/) which allows faculty to
+[provide feedback to students using the autograder](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/).  
+Classrooms' autograder is based on [GitHub Actions](https://github.com/features/actions).
 
 Also, Amazon Web Services (AWS) provides [**AWS Educate** _for students and faculty_](https://aws.amazon.com/education/awseducate/).
 
